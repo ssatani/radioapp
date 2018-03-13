@@ -1,12 +1,10 @@
 
-<h1>#This radio app is created for look a implementation off library native BASS utilities.</h1>
+<h1>This is a example of use of Accdecoder audio for streaming in mp3 and aac audio.</h1>
+<center>
+	GOOGLE native librery  used .
+</center> 
+https://code.google.com/archive/p/aacdecoder-android
 
-*This example could be used for radio apps, in personal an app for Konecta bussines and updated to playstore	
-
-#Radio Pontencia app
-
-https://play.google.com/store/apps/details?id=com.konecta.radiopotencia
-
-#Radio Korys app
-
-https://play.google.com/store/apps/details?id=com.konecta.ultrakorysradio
+<h2>
+	But can have problems of compatibility in few devices of high version android.	
+</h2>
